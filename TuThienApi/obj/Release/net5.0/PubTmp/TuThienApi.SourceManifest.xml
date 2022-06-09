@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitemanifest>
+  <IisApp path="D:\NguyenMinhHieu\IOTSOFTWAREVN\BlockChain_Project\Api\TuThienApi\TuThienApi\obj\Release\net5.0\PubTmp\Out\" />
+  <dbfullsql path="D:\NguyenMinhHieu\IOTSOFTWAREVN\BlockChain_Project\Api\TuThienApi\TuThienApi\obj\Release\net5.0\PubTmp\EFSQLScripts\TuThienApi.Data.ApplicationDbContext.sql" />
+</sitemanifest>

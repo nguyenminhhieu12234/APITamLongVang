@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA/orM2nJOM0qhQc4p9pUf2gAAAAACAAAAAAAQZgAAAAEAACAAAAAguuKovnb+hAr0HnaSNB/dGZV68fuPLvZY4/KpT0/shQAAAAAOgAAAAAIAACAAAADs8JxMnTbVZ0FLTHbdiqJigybO56MfZo72lGRqNjECQ4AAAABxlnOqav+fpyBw3WlkHQPANGzRBkqpIGPWpn5m56/BcusSmmnS3U4pUzTwmzE8i+VX9SfiQ7rG8hCKhf79aGvf07IvdaLRkiQLqz587D4zTUw2/LP8ipNyyvvW7d0D7GQiNIkbL97euTzkFZz69JJlA69fFbMbPnYmd7MelhI3MkAAAAA1pLwOFmVt9mlSP22pKRFG8NlEqXO+hWpQZ1wDWTFh5foiLG0TMmF6wYsycFjroiBnyeBXcoCj+OVKxyAFteSc</EncryptedPassword>
+    <History>True|2022-05-30T08:19:22.9765084Z;True|2022-05-30T15:15:03.5758531+07:00;True|2022-05-30T15:10:42.5112388+07:00;True|2022-05-25T11:21:18.2353385+07:00;True|2022-05-25T11:11:09.2785716+07:00;True|2022-05-25T11:03:06.1236029+07:00;True|2022-05-23T09:41:20.4260866+07:00;True|2022-05-23T09:39:45.8331124+07:00;True|2022-05-23T09:22:41.7986978+07:00;True|2022-05-23T09:09:04.5205448+07:00;</History>
+  </PropertyGroup>
+  <ItemGroup>
+    <EFMigrations Include="TuThienApi.Data.ApplicationDbContext">
+      <Value>Data Source=tcp:tuthienapidbserver.database.windows.net,1433%3bInitial Catalog=TuThienApi_db%3bUser Id=hieu12234%40tuthienapidbserver%3bPassword=Hieu%4012234</Value>
+    </EFMigrations>
+  </ItemGroup>
+</Project>
